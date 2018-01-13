@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="checkNic.php" server="avian.dx.am//avian.dx.am/" local="131172640599246194" remote="131172442200000000" Dst="0" />
+<file name="login.db.php" server="avian.dx.am//avian.dx.am/" local="131174587786387485" remote="131174389200000000" Dst="0" />
+<file name="logout.db.php" server="avian.dx.am//avian.dx.am/" local="131133034073305842" remote="131142315600000000" Dst="0" />
+<file name="payform.php" server="avian.dx.am//avian.dx.am/" local="131172601286216118" remote="131172403200000000" Dst="0" />
+<file name="send_mail.php" server="avian.dx.am//avian.dx.am/" local="131066685834716919" remote="131142315600000000" Dst="0" />
+<file name="testcheck.php" server="avian.dx.am//avian.dx.am/" local="131172613001468117" remote="131172414600000000" Dst="0" />
+<file name="testform.php" server="avian.dx.am//avian.dx.am/" local="131172605879476593" remote="131172407400000000" Dst="0" />
+<file name="check_student_presence.php" server="avian.dx.am//avian.dx.am/" local="131172671599229258" remote="131172473400000000" Dst="0" />
+<file name="load_course_data.php" server="avian.dx.am//avian.dx.am/" local="131172727132524297" remote="131172528600000000" Dst="0" />
+<file name="load_payment_data.php" server="avian.dx.am//avian.dx.am/" local="131172729315268664" remote="131172531000000000" Dst="0" />
+<file name="add_exam_data.php" server="avian.dx.am//avian.dx.am/" local="131174677550077744" remote="131174479200000000" Dst="0" />
+<file name="add_payment_data.php" server="avian.dx.am//avian.dx.am/" local="131174681329323905" remote="131174482800000000" Dst="0" />
+<file name="add_trial_data.php" server="avian.dx.am//avian.dx.am/" local="131174758639482327" remote="131174560200000000" Dst="0" />
+<file name="delete_att_data.php" server="avian.dx.am//avian.dx.am/" local="131174685191754823" remote="131174487000000000" Dst="0" />
+<file name="delete_exm_data.php" server="avian.dx.am//avian.dx.am/" local="131174687255342854" remote="131174488800000000" Dst="0" />
+<file name="delete_pay_data.php" server="avian.dx.am//avian.dx.am/" local="131174688578128513" remote="131174490600000000" Dst="0" />
+<file name="delete_tr_data.php" server="avian.dx.am//avian.dx.am/" local="131174689555244401" remote="131174491200000000" Dst="0" />
+<file name="edit_att_data.php" server="avian.dx.am//avian.dx.am/" local="131174695148584321" remote="131174496600000000" Dst="0" />
+<file name="edit_basic_data.php" server="avian.dx.am//avian.dx.am/" local="131174755394846745" remote="131174557200000000" Dst="0" />
+<file name="edit_course_data.php" server="avian.dx.am//avian.dx.am/" local="131174750998565292" remote="131174553000000000" Dst="0" />
+<file name="edit_exam_data.php" server="avian.dx.am//avian.dx.am/" local="131174757500937206" remote="131174559000000000" Dst="0" />
+<file name="edit_pay_data.php" server="avian.dx.am//avian.dx.am/" local="131174706029306663" remote="131174508000000000" Dst="0" />
+<file name="edit_trial_data.php" server="avian.dx.am//avian.dx.am/" local="131174707353762418" remote="131174509200000000" Dst="0" />
+<file name="load_attendance_data.php" server="avian.dx.am//avian.dx.am/" local="131172741942436915" remote="131172543600000000" Dst="0" />
+<file name="load_exam_data.php" server="avian.dx.am//avian.dx.am/" local="131172741507820152" remote="131172543000000000" Dst="0" />
+<file name="load_basic_data.php" server="avian.dx.am//avian.dx.am/" local="131172702895516951" remote="131172504600000000" Dst="0" />
+<file name="load_stu_img.php" server="avian.dx.am//avian.dx.am/" local="131156315260893335" remote="131157367800000000" Dst="0" />
+<file name="load_attendance_table.php" server="avian.dx.am//avian.dx.am/" local="131176924772072099" remote="131176726200000000" Dst="0" />
+<file name="check_nic_validity.php" server="avian.dx.am//avian.dx.am/" local="131172638254228841" remote="131172439800000000" Dst="0" />
+<file name="load_recent_reg.php" server="avian.dx.am//avian.dx.am/" local="131160229487093171" remote="131160031200000000" Dst="0" />
+<file name="load_rlvnt_clses.php" server="avian.dx.am//avian.dx.am/" local="131163201483818715" remote="131163003000000000" Dst="0" />
+<file name="add_attendance.php" server="avian.dx.am//avian.dx.am/" local="131177066253952062" remote="131176870200000000" Dst="0" />
+<file name="index.php" server="avian.dx.am//avian.dx.am/" local="131175378100000000" remote="131175180000000000" Dst="0" />
+<file name=".htaccess" server="avian.dx.am//avian.dx.am/" local="131179810569898193" remote="131179612200000000" Dst="0" />
+</dwsync>

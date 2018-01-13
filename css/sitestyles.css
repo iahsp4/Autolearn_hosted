@@ -1,0 +1,251 @@
+/* CSS Document */
+.header{
+ background-color:#F3F3F3;
+ height:120px;
+	}
+	
+.sideNav{
+	 background-color:#DCD9D9;
+     padding:1px;
+	 height:600px;
+	}
+.content_area{
+ background-image:url(../Images/back.png);background-size:cover;	
+}
+.footer{
+	 position:absolute;
+	 background-color:#CCCCCC;
+	 height:100px;
+	 bottom:0px;
+	 width:100%
+	}
+.footer_other{
+  background-color:#CCCCCC;
+  height:100px;
+  bottom:0px;
+  width:100%
+}	
+
+
+.colTabs{
+ padding:0 0 0 0px
+}
+
+.rowTabs{
+ background-color:#FDFDFD
+}
+.rowTabc{
+ background-color:#fff
+}
+.colMain{
+ padding-left:10px
+}
+.tabs{
+ padding:0px;
+ border-bottom:1px solid #B4B4B4;
+}
+.tabs > li {
+ margin-left:-1px;
+ margin-right:-1px;
+ text-align:center;                     
+}
+.tabs > li > a{
+  font-family:"Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+  color:#5A5858;
+  font-size:16px;
+  margin-right: 2px;
+  line-height: 1.42857143;
+  border: 1px solid transparent;
+  border-radius: 0px 0px 0 0;
+}
+.tabs > li > a:hover{
+ border-color: #eee #eee #ddd;
+ }
+.tabs > li.active > a,.tabs > li.active > a:hover,.tabs > li.active > a:focus{
+ font-family:"Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+ color:#5A5858;
+ font-weight:600;
+ border: 0px ;
+ border-top:0px;
+ background-color:#D8D4D4;
+}
+
+
+.pills > li > a {
+  border-radius: 0px;
+  padding:20px ;
+  color:#5A5858;
+  font-size:15px;
+  font-family:"'Corbel'", Arial;
+  font-weight:500;
+}
+
+.pills > li.active > a,
+.pills > li.active > a:hover,
+.pills > li.active > a:focus {
+  color: #fff;
+  background-color: #77A1D5;
+}
+
+
+
+.form-control{
+ font-size:14px;
+ height:24px;
+ border-radius:0px;
+ width:75%;
+ line-height:1;
+ padding:1px 2px 4px 5px;	
+}
+
+.date_select{
+ width:auto;
+ display:inline-block;	
+}
+
+th {
+ background-color:#EDF5F5;	
+}
+
+label { 
+ font-style:normal;
+ font-weight:200;
+}
+.disabled{
+ cursor:pointer
+}
+
+.nav > li.disabled > a:hover,
+.nav > li.disabled > a:focus {
+ cursor:default;
+}
+
+#myModal{
+ top:40%;	
+}
+.modal-dialog1 {
+ width:300px;
+}
+ 
+.my-error-class {
+    color:#FF0000;  /* red */
+	font-style:normal;
+	font-weight:100;
+}
+
+.fordisplay{
+  background-color:transparent;
+  border:none;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.mymodelcn{
+  background-color: transparent;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+		  border: none;
+  border: none;
+	
+	
+}
+.customHr {
+    width: 95%
+    font-size: 1px;
+    color: rgba(0, 0, 0, 0);
+    line-height: 1px;
+    background-color: grey;
+    margin-top: -6px;
+    margin-bottom: 10px;
+}
+h4{
+ font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif	
+}
+
+:focus {
+ outline:none !important;
+ }
+
+.test[style] {
+ padding-right:0 !important;
+ }
+ .test.modal-open {
+ overflow: auto;
+ }
+ 
+.btn-default{
+ background-color:#E9F3F3;
+}
+
+.tr_selec,.tr_selec:focus,.tr_selec:hover{
+ background-color:#CED4E0;
+ color:#000;	
+}
+.not_highlight tr:hover{
+ cursor:default;	
+ background-color:#CCDCF8;	
+}
+
+
+
+.not_highlight tr {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+
+.img_container_div{
+	height:130px;
+	width:120px;
+	margin-left:auto;
+	margin-right:auto;
+}
+img.stuImg{
+ border:1px solid #AFAAAB;
+ height:100%;
+ width:100%;
+}
+
+.stu_data_tab{
+	font-size:12px;
+	padding:10px;
+}
+.stu_tabs_container_div{
+	border-bottom:1px solid #ACACAC;
+	min-height:470px;
+}
+
+
+
+.dis_textfield[disabled]{
+	background-color:transparent;
+	border:1px solid #D7D2D2 ;
+	-webkit-box-shadow:none;
+	box-shadow:none;
+	cursor:default;
+}
+.edit_textfield{
+	cursor:text;
+	border:1px solid #ccc8c8;
+}
+
+
+
+#stu_data_cle_btn{
+	width:100px;
+	margin-right:50px;
+}
+
+
+.highlighted{
+	color:#AB2E30;
+	font-size:14px;
+}
+.not_highlighted{
+	color:inherit;
+	font-size:12px;
+}
